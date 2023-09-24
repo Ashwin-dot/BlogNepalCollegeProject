@@ -1,0 +1,39 @@
+/* .boody {
+  display: flex;
+}
+
+.sidebar {
+  min-width: 200px;
+  background-color: #f0f0f0;
+  padding: 16px;
+}
+
+.sidebar h2 {
+  margin-bottom: 10px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin-bottom: 8px;
+}
+
+.main-content {
+  flex: 1;
+  padding: 16px;
+}
+
+.story-card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.no-data-message {
+  text-align: center;
+  margin-top: 16px;
+} */
